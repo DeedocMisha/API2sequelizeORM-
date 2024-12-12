@@ -1,0 +1,15 @@
+npm i sequelize
+npm install pg
+index.js + his filling
+
+Person js in the db and his filling
+
+И т.д
+npm install express
+npm i cors
+
+ПОДКЛ к БД делвем
+
+
+
+Для хэширования паролей:npm install bcrypt
